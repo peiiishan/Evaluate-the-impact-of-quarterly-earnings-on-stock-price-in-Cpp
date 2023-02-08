@@ -1,8 +1,6 @@
 //
 //  Stock.h
-//  FinalProject
-//
-//  Created by Xingyuan Ding on 12/3/21.
+//  Created on 12/3/21.
 //
 
 #ifndef Stock_h
