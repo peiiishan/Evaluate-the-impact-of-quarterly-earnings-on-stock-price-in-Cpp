@@ -1,8 +1,6 @@
 //
 //  StockGroup.h
-//  FinalProject
-//
-//  Created by Hanlu Ni on 12/10/21.
+//  Created on 12/10/21.
 //
 #pragma once
 #include <string>
