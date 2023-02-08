@@ -1,4 +1,5 @@
-//  Created by PeishanLiu on 2021-12-10.
+//  Gnuplot.hpp
+//  Created on 2021-12-10.
 
 #ifndef Gnuplot_hpp
 #define Gnuplot_hpp
