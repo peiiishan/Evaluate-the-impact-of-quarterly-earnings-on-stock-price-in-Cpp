@@ -1,5 +1,6 @@
 
-//  Created by PeishanLiu on 2021-12-10.
+// Gnuplot.cpp 
+// Created on 2021-12-10.
 
 #include"Gnuplot.hpp"
 
