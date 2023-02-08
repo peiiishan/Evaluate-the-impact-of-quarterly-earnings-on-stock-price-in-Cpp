@@ -1,8 +1,6 @@
 //
 //  Stock.cpp
-//  FinalProject
-//
-//  Created by Xingyuan Ding on 12/6/21.
+//  Created on 12/6/21.
 //
 #include <iostream>
 #include <iomanip>
